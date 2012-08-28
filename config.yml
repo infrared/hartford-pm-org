@@ -14,6 +14,10 @@ appname: "HPM"
 # about unicode within your app when this setting is set (recommended).
 charset: "UTF-8"
 
+port: 7000
+environment: production
+daemon: 1
+
 # template engine
 # simple: default and very basic template engine
 # template_toolkit: TT
